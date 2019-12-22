@@ -1,0 +1,55 @@
+@import '@carbon/themes/scss/themes';
+$carbon--theme: $carbon--theme--g100;
+@include carbon--theme();
+
+@import 'carbon-components/scss/globals/scss/styles.scss';
+@import url('https://fonts.googleapis.com/css?family=Rajdhani|Source+Sans+Pro&display=swap');
+
+body {
+  font-size: 16px;
+}
+
+span, p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, b, a {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+a {
+  color: $text-04;
+}
+
+.bx--side-nav__navigation {
+  background-color: $ui-background;
+}
+
+a.bx--side-nav__link--current,
+a.bx--side-nav__link--current > span.bx--side-nav__link-text {
+  background-color: $ui-01;
+  color: $text-04;
+}
+
+.bx--side-nav__item:not(.bx--side-nav__item--active)
+  > .bx--side-nav__link:hover {
+  background-color: $ui-01;
+  color: $text-04;
+}
+
+a.bx--side-nav__link > .bx--side-nav__link-text,
+.bx--side-nav__item:not(.bx--side-nav__item--active)
+  > .bx--side-nav__link:hover
+  > span {
+  color: $text-04;
+}
+
+.bx--side-nav:hover .bx--side-nav__item, .bx--side-nav--fixed .bx--side-nav__item, .bx--side-nav--expanded .bx--side-nav__item {
+  padding: 8px 0px !important;
+}
+
+@media (max-width: 640px) {
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
+}
