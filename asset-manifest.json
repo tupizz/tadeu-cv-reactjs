@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-online-cv/static/css/main.fd7a2511.chunk.css",
-    "main.js": "/react-online-cv/static/js/main.9376cc62.chunk.js",
-    "main.js.map": "/react-online-cv/static/js/main.9376cc62.chunk.js.map",
-    "runtime-main.js": "/react-online-cv/static/js/runtime-main.79accfa4.js",
-    "runtime-main.js.map": "/react-online-cv/static/js/runtime-main.79accfa4.js.map",
-    "static/js/2.09e93a96.chunk.js": "/react-online-cv/static/js/2.09e93a96.chunk.js",
-    "static/js/2.09e93a96.chunk.js.map": "/react-online-cv/static/js/2.09e93a96.chunk.js.map",
-    "index.html": "/react-online-cv/index.html",
-    "precache-manifest.04df6714df8d5b29faa12b098dfebdd5.js": "/react-online-cv/precache-manifest.04df6714df8d5b29faa12b098dfebdd5.js",
-    "service-worker.js": "/react-online-cv/service-worker.js",
-    "static/css/main.fd7a2511.chunk.css.map": "/react-online-cv/static/css/main.fd7a2511.chunk.css.map",
-    "static/js/2.09e93a96.chunk.js.LICENSE": "/react-online-cv/static/js/2.09e93a96.chunk.js.LICENSE"
+    "main.css": "/tadeu-cv-reactjs/static/css/main.fd7a2511.chunk.css",
+    "main.js": "/tadeu-cv-reactjs/static/js/main.e519190f.chunk.js",
+    "main.js.map": "/tadeu-cv-reactjs/static/js/main.e519190f.chunk.js.map",
+    "runtime-main.js": "/tadeu-cv-reactjs/static/js/runtime-main.cf9188a0.js",
+    "runtime-main.js.map": "/tadeu-cv-reactjs/static/js/runtime-main.cf9188a0.js.map",
+    "static/js/2.15a8744f.chunk.js": "/tadeu-cv-reactjs/static/js/2.15a8744f.chunk.js",
+    "static/js/2.15a8744f.chunk.js.map": "/tadeu-cv-reactjs/static/js/2.15a8744f.chunk.js.map",
+    "index.html": "/tadeu-cv-reactjs/index.html",
+    "precache-manifest.d50a8f4af73cf808ef86bca56d44e4d6.js": "/tadeu-cv-reactjs/precache-manifest.d50a8f4af73cf808ef86bca56d44e4d6.js",
+    "service-worker.js": "/tadeu-cv-reactjs/service-worker.js",
+    "static/css/main.fd7a2511.chunk.css.map": "/tadeu-cv-reactjs/static/css/main.fd7a2511.chunk.css.map",
+    "static/js/2.15a8744f.chunk.js.LICENSE": "/tadeu-cv-reactjs/static/js/2.15a8744f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.79accfa4.js",
-    "static/js/2.09e93a96.chunk.js",
+    "static/js/runtime-main.cf9188a0.js",
+    "static/js/2.15a8744f.chunk.js",
     "static/css/main.fd7a2511.chunk.css",
-    "static/js/main.9376cc62.chunk.js"
+    "static/js/main.e519190f.chunk.js"
   ]
 }
